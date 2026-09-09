@@ -1,5 +1,7 @@
 # Lab Writeups
 
+![LAB-REPORTS](https://socialify.git.ci/NiharM16/LAB-REPORTS/image?custom_description=This+is+a+repository+for+storing+lab+documentation.&description=1&font=Source+Code+Pro&name=1&owner=1&pattern=Circuit+Board&theme=Dark)
+
 Professional lab reports from hands-on web application security testing, produced while working through PortSwigger Web Security Academy labs using Burp Suite. Part of a structured 90-day AppSec learning roadmap.
 
 Each report follows a consistent format: report metadata, step-by-step execution with captioned screenshots, impact, remediation, and conclusion.
