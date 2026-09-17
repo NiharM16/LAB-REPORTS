@@ -3,7 +3,7 @@
 # LAB-REPORTS
 
 Professional security lab writeups documenting hands-on web application
-security testing.
+security testing, based on the PortSwigger Web Security Academy.
 
 ## Contents
 
@@ -25,16 +25,37 @@ Each report follows a consistent template:
 
 ## Progress
 
-**Week 1 — Host Header Attacks**
+**Week 1 — HTTP and Burp**
+
 - Basic Password Reset Poisoning
 - Password Reset Poisoning via Dangling Markup
 - Host Header Authentication Bypass
 
-**Week 2 — Authentication & Access Control**
+**Week 2 — Authentication and Sessions**
+
 - Username Enumeration via Different Responses
 - 2FA Simple Bypass
 - URL-Based Access Control Bypass
 - Referer-Based Access Control Bypass
+
+**Week 3 — Access Control**
+
+- Authentication vs. Authorization, IDOR, horizontal/vertical access control
+- Portfolio-quality report on access control findings
+
+**Week 4 — Injection and First Applications**
+
+- SQL injection fundamentals and parameterized queries
+- Applied findings against real-world target applications
+
+**Week 5 — XSS and Browser Trust**
+
+- Stored, reflected, and DOM-based XSS
+- Remediation walkthrough for a live finding
+
+**Week 6 — API Security**
+
+- Endpoint enumeration, object-level authorization, rate limiting.
 
 ## Tooling
 
